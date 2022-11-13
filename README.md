@@ -74,6 +74,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/a82c2f8c6223eb290d560a33c810666114755008/WhatsApp%20Image%202022-11-13%20at%2017.32.25.jpeg)
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/a40a0816e1860457d9011fb5f07e3241e908c8f7/WhatsApp%20Image%202022-11-13%20at%2017.33.03.jpeg)
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/9f96181adb9c5e1e9de69ea020b592fd7aef93bf/WhatsApp%20Image%202022-11-13%20at%2017.33.10.jpeg)
+![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/0e0907c55f5da47b420ed0dfae017619e29debdd/WhatsApp%20Image%202022-11-13%20at%2017.34.48.jpeg)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.

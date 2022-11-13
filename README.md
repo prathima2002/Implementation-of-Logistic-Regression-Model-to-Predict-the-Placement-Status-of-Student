@@ -81,6 +81,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/0be1291da5b57ec7e356857c48ab4fb6bd0a19e8/WhatsApp%20Image%202022-11-13%20at%2017.35.19.jpeg)
 
+![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/cd5720a25a56a76533bbdd7c5d75418886e358cd/WhatsApp%20Image%202022-11-13%20at%2017.37.58.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/d76fd4ff580a1d3df566181530404b75d3232f2b/WhatsApp%20Image%202022-11-13%20at%2017.35.32.jpeg)
 
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/bebac69f961b9285b56d0f708eb0462482d408bb/WhatsApp%20Image%202022-11-13%20at%2017.35.41.jpeg)

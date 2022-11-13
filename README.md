@@ -72,13 +72,21 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/e9d2d63d397d21e8eda5582e86aa49cc1b8158ad/WhatsApp%20Image%202022-11-13%20at%2017.31.29.jpeg)
 
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/a82c2f8c6223eb290d560a33c810666114755008/WhatsApp%20Image%202022-11-13%20at%2017.32.25.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/a40a0816e1860457d9011fb5f07e3241e908c8f7/WhatsApp%20Image%202022-11-13%20at%2017.33.03.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/9f96181adb9c5e1e9de69ea020b592fd7aef93bf/WhatsApp%20Image%202022-11-13%20at%2017.33.10.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/0e0907c55f5da47b420ed0dfae017619e29debdd/WhatsApp%20Image%202022-11-13%20at%2017.34.48.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/0be1291da5b57ec7e356857c48ab4fb6bd0a19e8/WhatsApp%20Image%202022-11-13%20at%2017.35.19.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/d76fd4ff580a1d3df566181530404b75d3232f2b/WhatsApp%20Image%202022-11-13%20at%2017.35.32.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/bebac69f961b9285b56d0f708eb0462482d408bb/WhatsApp%20Image%202022-11-13%20at%2017.35.41.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/344574c17bbd01c5e69e70c33b063a3e009e520c/WhatsApp%20Image%202022-11-13%20at%2017.35.53.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/e2be8941482940239ce93062f64cce57f53f4497/WhatsApp%20Image%202022-11-13%20at%2017.36.01.jpeg)
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
